@@ -28,3 +28,9 @@ body {
   bottom: 5%;
   position: absolute;
 }
+
+.bottom-left {
+  left: 5%;
+  bottom: 5%;
+  position: absolute;
+}
